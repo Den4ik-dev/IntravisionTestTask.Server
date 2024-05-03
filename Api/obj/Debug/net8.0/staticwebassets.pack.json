@@ -1,0 +1,65 @@
+{
+  "Files": [
+    {
+      "Id": "/home/yegor/Desktop/New folder_123/TestTaskInstraVision/Api/wwwroot/drinkLineImages/0fb34e43-6225-423a-a706-262102e69ba3.jpeg",
+      "PackagePath": "staticwebassets/drinkLineImages/0fb34e43-6225-423a-a706-262102e69ba3.jpeg"
+    },
+    {
+      "Id": "/home/yegor/Desktop/New folder_123/TestTaskInstraVision/Api/wwwroot/drinkLineImages/30158ada-5065-4c95-bca4-b8d37ca6f1f6.jpeg",
+      "PackagePath": "staticwebassets/drinkLineImages/30158ada-5065-4c95-bca4-b8d37ca6f1f6.jpeg"
+    },
+    {
+      "Id": "/home/yegor/Desktop/New folder_123/TestTaskInstraVision/Api/wwwroot/drinkLineImages/3b93e804-1641-4ae2-b51f-ed5c8507caab.jpeg",
+      "PackagePath": "staticwebassets/drinkLineImages/3b93e804-1641-4ae2-b51f-ed5c8507caab.jpeg"
+    },
+    {
+      "Id": "/home/yegor/Desktop/New folder_123/TestTaskInstraVision/Api/wwwroot/drinkLineImages/49c719aa-ea08-41a1-8990-973c4e003731.jpeg",
+      "PackagePath": "staticwebassets/drinkLineImages/49c719aa-ea08-41a1-8990-973c4e003731.jpeg"
+    },
+    {
+      "Id": "/home/yegor/Desktop/New folder_123/TestTaskInstraVision/Api/wwwroot/drinkLineImages/58a46d21-c858-45f6-a30d-69b1dcfad2da.jpeg",
+      "PackagePath": "staticwebassets/drinkLineImages/58a46d21-c858-45f6-a30d-69b1dcfad2da.jpeg"
+    },
+    {
+      "Id": "/home/yegor/Desktop/New folder_123/TestTaskInstraVision/Api/wwwroot/drinkLineImages/5c573c3c-e69e-494d-8a6a-099567fada35.jpeg",
+      "PackagePath": "staticwebassets/drinkLineImages/5c573c3c-e69e-494d-8a6a-099567fada35.jpeg"
+    },
+    {
+      "Id": "/home/yegor/Desktop/New folder_123/TestTaskInstraVision/Api/wwwroot/drinkLineImages/65de8759-caf5-4292-8284-1ad8b88945c4.jpeg",
+      "PackagePath": "staticwebassets/drinkLineImages/65de8759-caf5-4292-8284-1ad8b88945c4.jpeg"
+    },
+    {
+      "Id": "/home/yegor/Desktop/New folder_123/TestTaskInstraVision/Api/wwwroot/drinkLineImages/c1525996-4be8-4637-bef2-1efe1a3e78ac.jpeg",
+      "PackagePath": "staticwebassets/drinkLineImages/c1525996-4be8-4637-bef2-1efe1a3e78ac.jpeg"
+    },
+    {
+      "Id": "/home/yegor/Desktop/New folder_123/TestTaskInstraVision/Api/wwwroot/drinkLineImages/c498ab9c-46d0-4f3d-be25-d585e98fc700.jpeg",
+      "PackagePath": "staticwebassets/drinkLineImages/c498ab9c-46d0-4f3d-be25-d585e98fc700.jpeg"
+    },
+    {
+      "Id": "/home/yegor/Desktop/New folder_123/TestTaskInstraVision/Api/wwwroot/drinkLineImages/cc5d126d-1aa0-4f51-a1ae-c2d4e9917de8.jpeg",
+      "PackagePath": "staticwebassets/drinkLineImages/cc5d126d-1aa0-4f51-a1ae-c2d4e9917de8.jpeg"
+    },
+    {
+      "Id": "/home/yegor/Desktop/New folder_123/TestTaskInstraVision/Api/wwwroot/drinkLineImages/f71bd351-5ca7-46d4-8a12-c346f7e8cff6.jpeg",
+      "PackagePath": "staticwebassets/drinkLineImages/f71bd351-5ca7-46d4-8a12-c346f7e8cff6.jpeg"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.Api.props",
+      "PackagePath": "build\\Api.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Api.props",
+      "PackagePath": "buildMultiTargeting\\Api.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Api.props",
+      "PackagePath": "buildTransitive\\Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

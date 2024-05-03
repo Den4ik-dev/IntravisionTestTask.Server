@@ -1,0 +1,344 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/yegor/Desktop/New folder_123/TestTaskInstraVision/Api/Api.csproj": {}
+  },
+  "projects": {
+    "/home/yegor/Desktop/New folder_123/TestTaskInstraVision/Api/Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/yegor/Desktop/New folder_123/TestTaskInstraVision/Api/Api.csproj",
+        "projectName": "Api",
+        "projectPath": "/home/yegor/Desktop/New folder_123/TestTaskInstraVision/Api/Api.csproj",
+        "packagesPath": "/home/yegor/.nuget/packages/",
+        "outputPath": "/home/yegor/Desktop/New folder_123/TestTaskInstraVision/Api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/yegor/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/yegor/Desktop/New folder_123/TestTaskInstraVision/Application/Application.csproj": {
+                "projectPath": "/home/yegor/Desktop/New folder_123/TestTaskInstraVision/Application/Application.csproj"
+              },
+              "/home/yegor/Desktop/New folder_123/TestTaskInstraVision/Contracts/Contracts.csproj": {
+                "projectPath": "/home/yegor/Desktop/New folder_123/TestTaskInstraVision/Contracts/Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Mapster": {
+              "target": "Package",
+              "version": "[7.4.0, )"
+            },
+            "Mapster.DependencyInjection": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/yegor/Desktop/New folder_123/TestTaskInstraVision/Application/Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/yegor/Desktop/New folder_123/TestTaskInstraVision/Application/Application.csproj",
+        "projectName": "Application",
+        "projectPath": "/home/yegor/Desktop/New folder_123/TestTaskInstraVision/Application/Application.csproj",
+        "packagesPath": "/home/yegor/.nuget/packages/",
+        "outputPath": "/home/yegor/Desktop/New folder_123/TestTaskInstraVision/Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/yegor/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/yegor/Desktop/New folder_123/TestTaskInstraVision/Domain/Domain.csproj": {
+                "projectPath": "/home/yegor/Desktop/New folder_123/TestTaskInstraVision/Domain/Domain.csproj"
+              },
+              "/home/yegor/Desktop/New folder_123/TestTaskInstraVision/Infrastructure/Infrastructure.csproj": {
+                "projectPath": "/home/yegor/Desktop/New folder_123/TestTaskInstraVision/Infrastructure/Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.9.1, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.9.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/yegor/Desktop/New folder_123/TestTaskInstraVision/Contracts/Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/yegor/Desktop/New folder_123/TestTaskInstraVision/Contracts/Contracts.csproj",
+        "projectName": "Contracts",
+        "projectPath": "/home/yegor/Desktop/New folder_123/TestTaskInstraVision/Contracts/Contracts.csproj",
+        "packagesPath": "/home/yegor/.nuget/packages/",
+        "outputPath": "/home/yegor/Desktop/New folder_123/TestTaskInstraVision/Contracts/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/yegor/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/yegor/Desktop/New folder_123/TestTaskInstraVision/Domain/Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/yegor/Desktop/New folder_123/TestTaskInstraVision/Domain/Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "/home/yegor/Desktop/New folder_123/TestTaskInstraVision/Domain/Domain.csproj",
+        "packagesPath": "/home/yegor/.nuget/packages/",
+        "outputPath": "/home/yegor/Desktop/New folder_123/TestTaskInstraVision/Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/yegor/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FluentResults": {
+              "target": "Package",
+              "version": "[3.15.2, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/yegor/Desktop/New folder_123/TestTaskInstraVision/Infrastructure/Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/yegor/Desktop/New folder_123/TestTaskInstraVision/Infrastructure/Infrastructure.csproj",
+        "projectName": "Infrastructure",
+        "projectPath": "/home/yegor/Desktop/New folder_123/TestTaskInstraVision/Infrastructure/Infrastructure.csproj",
+        "packagesPath": "/home/yegor/.nuget/packages/",
+        "outputPath": "/home/yegor/Desktop/New folder_123/TestTaskInstraVision/Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/yegor/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/yegor/Desktop/New folder_123/TestTaskInstraVision/Domain/Domain.csproj": {
+                "projectPath": "/home/yegor/Desktop/New folder_123/TestTaskInstraVision/Domain/Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
