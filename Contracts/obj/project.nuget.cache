@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WpM5TMrh8OI7Ewuqcw0biedjl9Lm0M7lKwa1bmNN9VXoxlk6gKWO4y8Hj5fQ1x1rhqqftXGQK5iQ95WFpcVNYg==",
+  "dgSpecHash": "ChRzQLSX4deV4IptgCQU47QtQOiPeTFIsYvrpexAk0zqX5NYRMYVx7S+8m0PNrmXquyhJ6LEj7oNMQBX6v6U6Q==",
   "success": true,
-  "projectFilePath": "/home/yegor/Desktop/New folder_123/TestTaskInstraVision/Contracts/Contracts.csproj",
+  "projectFilePath": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Contracts\\Contracts.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

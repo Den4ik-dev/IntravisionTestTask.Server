@@ -1,15 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "0k83NFs9pWd4zrfKTJsBIFScwAh9sqf/h0RD4IHg9TXoE5MyATH9d51K2ZSUVOtWBrxXclpHEhw7JZSbQ7Wsww==",
+  "dgSpecHash": "FQZXe5dbWgmO+qz/xg+lMO9Ozddjt0AsLllcSsG82pdIeaH1zFnnLKUmQ0ta9xE5QhjO7iH6W+mEUzaZVL9qvA==",
   "success": true,
-  "projectFilePath": "/home/yegor/Desktop/New folder_123/TestTaskInstraVision/Domain/Domain.csproj",
+  "projectFilePath": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
-    "/home/yegor/.nuget/packages/fluentresults/3.15.2/fluentresults.3.15.2.nupkg.sha512",
-    "/home/yegor/.nuget/packages/mediatr/12.2.0/mediatr.12.2.0.nupkg.sha512",
-    "/home/yegor/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
-    "/home/yegor/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
-    "/home/yegor/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.1/microsoft.extensions.logging.abstractions.6.0.1.nupkg.sha512",
-    "/home/yegor/.nuget/packages/system.threading.tasks.extensions/4.5.4/system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+    "C:\\Users\\ignat\\.nuget\\packages\\fluentresults\\3.15.2\\fluentresults.3.15.2.nupkg.sha512",
+    "C:\\Users\\ignat\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\ignat\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\ignat\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\ignat\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.1\\microsoft.extensions.logging.abstractions.6.0.1.nupkg.sha512",
+    "C:\\Users\\ignat\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,25 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "/home/yegor/Desktop/New folder_123/TestTaskInstraVision/Infrastructure/Infrastructure.csproj": {}
+    "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
-    "/home/yegor/Desktop/New folder_123/TestTaskInstraVision/Domain/Domain.csproj": {
+    "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/yegor/Desktop/New folder_123/TestTaskInstraVision/Domain/Domain.csproj",
+        "projectUniqueName": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "/home/yegor/Desktop/New folder_123/TestTaskInstraVision/Domain/Domain.csproj",
-        "packagesPath": "/home/yegor/.nuget/packages/",
-        "outputPath": "/home/yegor/Desktop/New folder_123/TestTaskInstraVision/Domain/obj/",
+        "projectPath": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\ignat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/home/yegor/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\ignat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -32,6 +39,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -63,34 +75,41 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/yegor/Desktop/New folder_123/TestTaskInstraVision/Infrastructure/Infrastructure.csproj": {
+    "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/yegor/Desktop/New folder_123/TestTaskInstraVision/Infrastructure/Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "/home/yegor/Desktop/New folder_123/TestTaskInstraVision/Infrastructure/Infrastructure.csproj",
-        "packagesPath": "/home/yegor/.nuget/packages/",
-        "outputPath": "/home/yegor/Desktop/New folder_123/TestTaskInstraVision/Infrastructure/obj/",
+        "projectPath": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\ignat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/home/yegor/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\ignat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/home/yegor/Desktop/New folder_123/TestTaskInstraVision/Domain/Domain.csproj": {
-                "projectPath": "/home/yegor/Desktop/New folder_123/TestTaskInstraVision/Domain/Domain.csproj"
+              "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Domain\\Domain.csproj"
               }
             }
           }
@@ -99,6 +118,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -130,7 +154,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

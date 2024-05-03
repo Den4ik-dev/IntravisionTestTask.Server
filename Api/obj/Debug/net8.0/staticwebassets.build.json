@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Va9PXrA2VI9GHSSHdUSLrHElitCYVhDLTWca1YUH9Yg=",
+  "Hash": "i6sqYTC57wzfgswCHmoHpqcb+1rBgPKdbkgR6xUTph0=",
   "Source": "Api",
   "BasePath": "_content/Api",
   "Mode": "Default",
@@ -8,19 +8,19 @@
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
-      "Name": "Api/wwwroot",
+      "Name": "Api\\wwwroot",
       "Source": "Api",
-      "ContentRoot": "/home/yegor/Desktop/New folder_123/TestTaskInstraVision/Api/wwwroot/",
+      "ContentRoot": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Api\\wwwroot\\",
       "BasePath": "_content/Api",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/home/yegor/Desktop/New folder_123/TestTaskInstraVision/Api/wwwroot/drinkLineImages/0fb34e43-6225-423a-a706-262102e69ba3.jpeg",
+      "Identity": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Api\\wwwroot\\drinkLineImages\\0fb34e43-6225-423a-a706-262102e69ba3.jpeg",
       "SourceId": "Api",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/yegor/Desktop/New folder_123/TestTaskInstraVision/Api/wwwroot/",
+      "ContentRoot": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Api\\wwwroot\\",
       "BasePath": "_content/Api",
       "RelativePath": "drinkLineImages/0fb34e43-6225-423a-a706-262102e69ba3.jpeg",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/drinkLineImages/0fb34e43-6225-423a-a706-262102e69ba3.jpeg"
+      "OriginalItemSpec": "wwwroot\\drinkLineImages\\0fb34e43-6225-423a-a706-262102e69ba3.jpeg"
     },
     {
-      "Identity": "/home/yegor/Desktop/New folder_123/TestTaskInstraVision/Api/wwwroot/drinkLineImages/30158ada-5065-4c95-bca4-b8d37ca6f1f6.jpeg",
+      "Identity": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Api\\wwwroot\\drinkLineImages\\30158ada-5065-4c95-bca4-b8d37ca6f1f6.jpeg",
       "SourceId": "Api",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/yegor/Desktop/New folder_123/TestTaskInstraVision/Api/wwwroot/",
+      "ContentRoot": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Api\\wwwroot\\",
       "BasePath": "_content/Api",
       "RelativePath": "drinkLineImages/30158ada-5065-4c95-bca4-b8d37ca6f1f6.jpeg",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/drinkLineImages/30158ada-5065-4c95-bca4-b8d37ca6f1f6.jpeg"
+      "OriginalItemSpec": "wwwroot\\drinkLineImages\\30158ada-5065-4c95-bca4-b8d37ca6f1f6.jpeg"
     },
     {
-      "Identity": "/home/yegor/Desktop/New folder_123/TestTaskInstraVision/Api/wwwroot/drinkLineImages/3b93e804-1641-4ae2-b51f-ed5c8507caab.jpeg",
+      "Identity": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Api\\wwwroot\\drinkLineImages\\3b93e804-1641-4ae2-b51f-ed5c8507caab.jpeg",
       "SourceId": "Api",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/yegor/Desktop/New folder_123/TestTaskInstraVision/Api/wwwroot/",
+      "ContentRoot": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Api\\wwwroot\\",
       "BasePath": "_content/Api",
       "RelativePath": "drinkLineImages/3b93e804-1641-4ae2-b51f-ed5c8507caab.jpeg",
       "AssetKind": "All",
@@ -71,13 +71,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/drinkLineImages/3b93e804-1641-4ae2-b51f-ed5c8507caab.jpeg"
+      "OriginalItemSpec": "wwwroot\\drinkLineImages\\3b93e804-1641-4ae2-b51f-ed5c8507caab.jpeg"
     },
     {
-      "Identity": "/home/yegor/Desktop/New folder_123/TestTaskInstraVision/Api/wwwroot/drinkLineImages/49c719aa-ea08-41a1-8990-973c4e003731.jpeg",
+      "Identity": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Api\\wwwroot\\drinkLineImages\\49c719aa-ea08-41a1-8990-973c4e003731.jpeg",
       "SourceId": "Api",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/yegor/Desktop/New folder_123/TestTaskInstraVision/Api/wwwroot/",
+      "ContentRoot": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Api\\wwwroot\\",
       "BasePath": "_content/Api",
       "RelativePath": "drinkLineImages/49c719aa-ea08-41a1-8990-973c4e003731.jpeg",
       "AssetKind": "All",
@@ -90,13 +90,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/drinkLineImages/49c719aa-ea08-41a1-8990-973c4e003731.jpeg"
+      "OriginalItemSpec": "wwwroot\\drinkLineImages\\49c719aa-ea08-41a1-8990-973c4e003731.jpeg"
     },
     {
-      "Identity": "/home/yegor/Desktop/New folder_123/TestTaskInstraVision/Api/wwwroot/drinkLineImages/58a46d21-c858-45f6-a30d-69b1dcfad2da.jpeg",
+      "Identity": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Api\\wwwroot\\drinkLineImages\\58a46d21-c858-45f6-a30d-69b1dcfad2da.jpeg",
       "SourceId": "Api",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/yegor/Desktop/New folder_123/TestTaskInstraVision/Api/wwwroot/",
+      "ContentRoot": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Api\\wwwroot\\",
       "BasePath": "_content/Api",
       "RelativePath": "drinkLineImages/58a46d21-c858-45f6-a30d-69b1dcfad2da.jpeg",
       "AssetKind": "All",
@@ -109,13 +109,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/drinkLineImages/58a46d21-c858-45f6-a30d-69b1dcfad2da.jpeg"
+      "OriginalItemSpec": "wwwroot\\drinkLineImages\\58a46d21-c858-45f6-a30d-69b1dcfad2da.jpeg"
     },
     {
-      "Identity": "/home/yegor/Desktop/New folder_123/TestTaskInstraVision/Api/wwwroot/drinkLineImages/5c573c3c-e69e-494d-8a6a-099567fada35.jpeg",
+      "Identity": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Api\\wwwroot\\drinkLineImages\\5c573c3c-e69e-494d-8a6a-099567fada35.jpeg",
       "SourceId": "Api",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/yegor/Desktop/New folder_123/TestTaskInstraVision/Api/wwwroot/",
+      "ContentRoot": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Api\\wwwroot\\",
       "BasePath": "_content/Api",
       "RelativePath": "drinkLineImages/5c573c3c-e69e-494d-8a6a-099567fada35.jpeg",
       "AssetKind": "All",
@@ -128,13 +128,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/drinkLineImages/5c573c3c-e69e-494d-8a6a-099567fada35.jpeg"
+      "OriginalItemSpec": "wwwroot\\drinkLineImages\\5c573c3c-e69e-494d-8a6a-099567fada35.jpeg"
     },
     {
-      "Identity": "/home/yegor/Desktop/New folder_123/TestTaskInstraVision/Api/wwwroot/drinkLineImages/65de8759-caf5-4292-8284-1ad8b88945c4.jpeg",
+      "Identity": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Api\\wwwroot\\drinkLineImages\\65de8759-caf5-4292-8284-1ad8b88945c4.jpeg",
       "SourceId": "Api",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/yegor/Desktop/New folder_123/TestTaskInstraVision/Api/wwwroot/",
+      "ContentRoot": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Api\\wwwroot\\",
       "BasePath": "_content/Api",
       "RelativePath": "drinkLineImages/65de8759-caf5-4292-8284-1ad8b88945c4.jpeg",
       "AssetKind": "All",
@@ -147,13 +147,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/drinkLineImages/65de8759-caf5-4292-8284-1ad8b88945c4.jpeg"
+      "OriginalItemSpec": "wwwroot\\drinkLineImages\\65de8759-caf5-4292-8284-1ad8b88945c4.jpeg"
     },
     {
-      "Identity": "/home/yegor/Desktop/New folder_123/TestTaskInstraVision/Api/wwwroot/drinkLineImages/c1525996-4be8-4637-bef2-1efe1a3e78ac.jpeg",
+      "Identity": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Api\\wwwroot\\drinkLineImages\\c1525996-4be8-4637-bef2-1efe1a3e78ac.jpeg",
       "SourceId": "Api",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/yegor/Desktop/New folder_123/TestTaskInstraVision/Api/wwwroot/",
+      "ContentRoot": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Api\\wwwroot\\",
       "BasePath": "_content/Api",
       "RelativePath": "drinkLineImages/c1525996-4be8-4637-bef2-1efe1a3e78ac.jpeg",
       "AssetKind": "All",
@@ -166,13 +166,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/drinkLineImages/c1525996-4be8-4637-bef2-1efe1a3e78ac.jpeg"
+      "OriginalItemSpec": "wwwroot\\drinkLineImages\\c1525996-4be8-4637-bef2-1efe1a3e78ac.jpeg"
     },
     {
-      "Identity": "/home/yegor/Desktop/New folder_123/TestTaskInstraVision/Api/wwwroot/drinkLineImages/c498ab9c-46d0-4f3d-be25-d585e98fc700.jpeg",
+      "Identity": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Api\\wwwroot\\drinkLineImages\\c498ab9c-46d0-4f3d-be25-d585e98fc700.jpeg",
       "SourceId": "Api",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/yegor/Desktop/New folder_123/TestTaskInstraVision/Api/wwwroot/",
+      "ContentRoot": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Api\\wwwroot\\",
       "BasePath": "_content/Api",
       "RelativePath": "drinkLineImages/c498ab9c-46d0-4f3d-be25-d585e98fc700.jpeg",
       "AssetKind": "All",
@@ -185,13 +185,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/drinkLineImages/c498ab9c-46d0-4f3d-be25-d585e98fc700.jpeg"
+      "OriginalItemSpec": "wwwroot\\drinkLineImages\\c498ab9c-46d0-4f3d-be25-d585e98fc700.jpeg"
     },
     {
-      "Identity": "/home/yegor/Desktop/New folder_123/TestTaskInstraVision/Api/wwwroot/drinkLineImages/cc5d126d-1aa0-4f51-a1ae-c2d4e9917de8.jpeg",
+      "Identity": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Api\\wwwroot\\drinkLineImages\\cc5d126d-1aa0-4f51-a1ae-c2d4e9917de8.jpeg",
       "SourceId": "Api",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/yegor/Desktop/New folder_123/TestTaskInstraVision/Api/wwwroot/",
+      "ContentRoot": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Api\\wwwroot\\",
       "BasePath": "_content/Api",
       "RelativePath": "drinkLineImages/cc5d126d-1aa0-4f51-a1ae-c2d4e9917de8.jpeg",
       "AssetKind": "All",
@@ -204,13 +204,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/drinkLineImages/cc5d126d-1aa0-4f51-a1ae-c2d4e9917de8.jpeg"
+      "OriginalItemSpec": "wwwroot\\drinkLineImages\\cc5d126d-1aa0-4f51-a1ae-c2d4e9917de8.jpeg"
     },
     {
-      "Identity": "/home/yegor/Desktop/New folder_123/TestTaskInstraVision/Api/wwwroot/drinkLineImages/f71bd351-5ca7-46d4-8a12-c346f7e8cff6.jpeg",
+      "Identity": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Api\\wwwroot\\drinkLineImages\\f71bd351-5ca7-46d4-8a12-c346f7e8cff6.jpeg",
       "SourceId": "Api",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/yegor/Desktop/New folder_123/TestTaskInstraVision/Api/wwwroot/",
+      "ContentRoot": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Api\\wwwroot\\",
       "BasePath": "_content/Api",
       "RelativePath": "drinkLineImages/f71bd351-5ca7-46d4-8a12-c346f7e8cff6.jpeg",
       "AssetKind": "All",
@@ -223,7 +223,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/drinkLineImages/f71bd351-5ca7-46d4-8a12-c346f7e8cff6.jpeg"
+      "OriginalItemSpec": "wwwroot\\drinkLineImages\\f71bd351-5ca7-46d4-8a12-c346f7e8cff6.jpeg"
     }
   ]
 }

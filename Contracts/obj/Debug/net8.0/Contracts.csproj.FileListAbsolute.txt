@@ -20,3 +20,15 @@ C:/Users/StokovAdmin/source/repos/Test Projects/TestTaskInstraVision/Contracts/o
 /home/yegor/Desktop/New folder_123/TestTaskInstraVision/Contracts/obj/Debug/net8.0/refint/Contracts.dll
 /home/yegor/Desktop/New folder_123/TestTaskInstraVision/Contracts/obj/Debug/net8.0/Contracts.pdb
 /home/yegor/Desktop/New folder_123/TestTaskInstraVision/Contracts/obj/Debug/net8.0/ref/Contracts.dll
+C:\Users\ignat\Desktop\IntravisionTestTask\TestTaskInstraVision\Contracts\bin\Debug\net8.0\Contracts.deps.json
+C:\Users\ignat\Desktop\IntravisionTestTask\TestTaskInstraVision\Contracts\bin\Debug\net8.0\Contracts.dll
+C:\Users\ignat\Desktop\IntravisionTestTask\TestTaskInstraVision\Contracts\bin\Debug\net8.0\Contracts.pdb
+C:\Users\ignat\Desktop\IntravisionTestTask\TestTaskInstraVision\Contracts\obj\Debug\net8.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ignat\Desktop\IntravisionTestTask\TestTaskInstraVision\Contracts\obj\Debug\net8.0\Contracts.AssemblyInfoInputs.cache
+C:\Users\ignat\Desktop\IntravisionTestTask\TestTaskInstraVision\Contracts\obj\Debug\net8.0\Contracts.AssemblyInfo.cs
+C:\Users\ignat\Desktop\IntravisionTestTask\TestTaskInstraVision\Contracts\obj\Debug\net8.0\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\ignat\Desktop\IntravisionTestTask\TestTaskInstraVision\Contracts\obj\Debug\net8.0\Contracts.sourcelink.json
+C:\Users\ignat\Desktop\IntravisionTestTask\TestTaskInstraVision\Contracts\obj\Debug\net8.0\Contracts.dll
+C:\Users\ignat\Desktop\IntravisionTestTask\TestTaskInstraVision\Contracts\obj\Debug\net8.0\refint\Contracts.dll
+C:\Users\ignat\Desktop\IntravisionTestTask\TestTaskInstraVision\Contracts\obj\Debug\net8.0\Contracts.pdb
+C:\Users\ignat\Desktop\IntravisionTestTask\TestTaskInstraVision\Contracts\obj\Debug\net8.0\ref\Contracts.dll
