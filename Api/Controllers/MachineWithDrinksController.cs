@@ -1,5 +1,6 @@
 using Api.Common;
 using Application.MachinesWithDrinks.Commands.PurchaseDrinks;
+using Application.MachinesWithDrinks.Queries.GetCoinsInMachine;
 using Contracts.MachinesWithDrinks;
 using FluentResults;
 using MapsterMapper;
@@ -35,5 +36,15 @@ public class MachineWithDrinksController : ApiController
         int change = result.Value;
 
         return Results.Ok(change);
+    }
+
+    [HttpGet("coins")]
+    public async Task<int> GetCoins()
+    {
+        var query = new GetCoinsInMachineQuery();
+
+        int coinsInMachine = await _sender.Send(query);
+
+        return coinsInMachine;
     }
 }

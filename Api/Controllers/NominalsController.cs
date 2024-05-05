@@ -20,7 +20,7 @@ public class NominalsController : ApiController
     }
 
     [CustomAuthorize]
-    [HttpPost("{nominal_id:int}/isBlcoked")]
+    [HttpPost("{nominal_id:int}/isBlocked")]
     public async Task<IResult> SwitchNominalForBlock(int nominal_id)
     {
         var command = new SwitchNominalForBlockCommand(NominalId.Create(nominal_id));

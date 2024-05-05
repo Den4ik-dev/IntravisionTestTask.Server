@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{95C1C18A-8F67-4A9D-9344-A2689BA4719C}|Application\\Application.csproj|c:\\users\\ignat\\desktop\\intravisiontesttask\\testtaskinstravision\\application\\machineswithdrinks\\queries\\getcoinsinmachine\\getcoinsmachinequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95C1C18A-8F67-4A9D-9344-A2689BA4719C}|Application\\Application.csproj|solutionrelative:application\\machineswithdrinks\\queries\\getcoinsinmachine\\getcoinsmachinequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D40C7C-D094-47D3-BFD4-6CCF43CFB7DA}|Api\\Api.csproj|c:\\users\\ignat\\desktop\\intravisiontesttask\\testtaskinstravision\\api\\controllers\\nominalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8D40C7C-D094-47D3-BFD4-6CCF43CFB7DA}|Api\\Api.csproj|solutionrelative:api\\controllers\\nominalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C1C18A-8F67-4A9D-9344-A2689BA4719C}|Application\\Application.csproj|c:\\users\\ignat\\desktop\\intravisiontesttask\\testtaskinstravision\\application\\machineswithdrinks\\queries\\getcoinsinmachine\\getcoinsinmachinequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95C1C18A-8F67-4A9D-9344-A2689BA4719C}|Application\\Application.csproj|solutionrelative:application\\machineswithdrinks\\queries\\getcoinsinmachine\\getcoinsinmachinequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{95C1C18A-8F67-4A9D-9344-A2689BA4719C}|Application\\Application.csproj|c:\\users\\ignat\\desktop\\intravisiontesttask\\testtaskinstravision\\application\\drinklines\\commands\\adddrinklineimage\\adddrinklineimagecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95C1C18A-8F67-4A9D-9344-A2689BA4719C}|Application\\Application.csproj|solutionrelative:application\\drinklines\\commands\\adddrinklineimage\\adddrinklineimagecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -25,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B8D40C7C-D094-47D3-BFD4-6CCF43CFB7DA}|Api\\Api.csproj|c:\\users\\ignat\\desktop\\intravisiontesttask\\testtaskinstravision\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B8D40C7C-D094-47D3-BFD4-6CCF43CFB7DA}|Api\\Api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8D40C7C-D094-47D3-BFD4-6CCF43CFB7DA}|Api\\Api.csproj|c:\\users\\ignat\\desktop\\intravisiontesttask\\testtaskinstravision\\api\\controllers\\nominalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8D40C7C-D094-47D3-BFD4-6CCF43CFB7DA}|Api\\Api.csproj|solutionrelative:api\\controllers\\nominalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{95C1C18A-8F67-4A9D-9344-A2689BA4719C}|Application\\Application.csproj|c:\\users\\ignat\\desktop\\intravisiontesttask\\testtaskinstravision\\application\\nominals\\queries\\getallnominals\\nominaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -214,62 +222,48 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DrinkLinesController.cs",
-              "DocumentMoniker": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Api\\Controllers\\DrinkLinesController.cs",
-              "RelativeDocumentMoniker": "Api\\Controllers\\DrinkLinesController.cs",
-              "ToolTip": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Api\\Controllers\\DrinkLinesController.cs",
-              "RelativeToolTip": "Api\\Controllers\\DrinkLinesController.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAA1wCEAAAA/AAAA",
+              "DocumentIndex": 0,
+              "Title": "GetCoinsMachineQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Application\\MachinesWithDrinks\\Queries\\GetCoinsInMachine\\GetCoinsMachineQueryHandler.cs",
+              "RelativeDocumentMoniker": "Application\\MachinesWithDrinks\\Queries\\GetCoinsInMachine\\GetCoinsMachineQueryHandler.cs",
+              "ToolTip": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Application\\MachinesWithDrinks\\Queries\\GetCoinsInMachine\\GetCoinsMachineQueryHandler.cs",
+              "RelativeToolTip": "Application\\MachinesWithDrinks\\Queries\\GetCoinsInMachine\\GetCoinsMachineQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T11:40:00.174Z",
+              "WhenOpened": "2024-05-04T19:08:19.106Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetCoinsInMachineQuery.cs",
+              "DocumentMoniker": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Application\\MachinesWithDrinks\\Queries\\GetCoinsInMachine\\GetCoinsInMachineQuery.cs",
+              "RelativeDocumentMoniker": "Application\\MachinesWithDrinks\\Queries\\GetCoinsInMachine\\GetCoinsInMachineQuery.cs",
+              "ToolTip": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Application\\MachinesWithDrinks\\Queries\\GetCoinsInMachine\\GetCoinsInMachineQuery.cs",
+              "RelativeToolTip": "Application\\MachinesWithDrinks\\Queries\\GetCoinsInMachine\\GetCoinsInMachineQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T18:17:10.789Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Api\\appsettings.json",
-              "RelativeDocumentMoniker": "Api\\appsettings.json",
-              "ToolTip": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Api\\appsettings.json",
-              "RelativeToolTip": "Api\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-03T11:40:00.31Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "NominalDto.cs",
-              "DocumentMoniker": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Application\\Nominals\\Queries\\GetAllNominals\\NominalDto.cs",
-              "RelativeDocumentMoniker": "Application\\Nominals\\Queries\\GetAllNominals\\NominalDto.cs",
-              "ToolTip": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Application\\Nominals\\Queries\\GetAllNominals\\NominalDto.cs",
-              "RelativeToolTip": "Application\\Nominals\\Queries\\GetAllNominals\\NominalDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T11:39:59.578Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "AddDrinkLineImageCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Application\\DrinkLines\\Commands\\AddDrinkLineImage\\AddDrinkLineImageCommandHandler.cs",
               "RelativeDocumentMoniker": "Application\\DrinkLines\\Commands\\AddDrinkLineImage\\AddDrinkLineImageCommandHandler.cs",
               "ToolTip": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Application\\DrinkLines\\Commands\\AddDrinkLineImage\\AddDrinkLineImageCommandHandler.cs",
               "RelativeToolTip": "Application\\DrinkLines\\Commands\\AddDrinkLineImage\\AddDrinkLineImageCommandHandler.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAIwB0AAAAhAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T11:40:01.187Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T11:40:01.187Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "MachineWithDrinksController.cs",
               "DocumentMoniker": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Api\\Controllers\\MachineWithDrinksController.cs",
               "RelativeDocumentMoniker": "Api\\Controllers\\MachineWithDrinksController.cs",
@@ -281,7 +275,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "GetAllNominalsQueryHandler.cs",
               "DocumentMoniker": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Application\\Nominals\\Queries\\GetAllNominals\\GetAllNominalsQueryHandler.cs",
               "RelativeDocumentMoniker": "Application\\Nominals\\Queries\\GetAllNominals\\GetAllNominalsQueryHandler.cs",
@@ -294,6 +288,42 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "NominalsController.cs",
+              "DocumentMoniker": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Api\\Controllers\\NominalsController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\NominalsController.cs",
+              "ToolTip": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Api\\Controllers\\NominalsController.cs",
+              "RelativeToolTip": "Api\\Controllers\\NominalsController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T11:40:00.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NominalDto.cs",
+              "DocumentMoniker": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Application\\Nominals\\Queries\\GetAllNominals\\NominalDto.cs",
+              "RelativeDocumentMoniker": "Application\\Nominals\\Queries\\GetAllNominals\\NominalDto.cs",
+              "ToolTip": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Application\\Nominals\\Queries\\GetAllNominals\\NominalDto.cs",
+              "RelativeToolTip": "Application\\Nominals\\Queries\\GetAllNominals\\NominalDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T11:39:59.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Api\\appsettings.json",
+              "RelativeToolTip": "Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-03T11:40:00.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "UploadService.cs",
               "DocumentMoniker": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Infrastructure\\Services\\UploadService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Services\\UploadService.cs",
@@ -301,12 +331,11 @@
               "RelativeToolTip": "Infrastructure\\Services\\UploadService.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T11:40:01.177Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T11:40:01.177Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Api\\Program.cs",
               "RelativeDocumentMoniker": "Api\\Program.cs",
@@ -318,19 +347,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "NominalsController.cs",
-              "DocumentMoniker": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Api\\Controllers\\NominalsController.cs",
-              "RelativeDocumentMoniker": "Api\\Controllers\\NominalsController.cs",
-              "ToolTip": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Api\\Controllers\\NominalsController.cs",
-              "RelativeToolTip": "Api\\Controllers\\NominalsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "DocumentIndex": 5,
+              "Title": "DrinkLinesController.cs",
+              "DocumentMoniker": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Api\\Controllers\\DrinkLinesController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\DrinkLinesController.cs",
+              "ToolTip": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Api\\Controllers\\DrinkLinesController.cs",
+              "RelativeToolTip": "Api\\Controllers\\DrinkLinesController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAA1wCEAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T11:40:00.143Z"
+              "WhenOpened": "2024-05-03T11:40:00.174Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "GetAllNominalsQuery.cs",
               "DocumentMoniker": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Application\\Nominals\\Queries\\GetAllNominals\\GetAllNominalsQuery.cs",
               "RelativeDocumentMoniker": "Application\\Nominals\\Queries\\GetAllNominals\\GetAllNominalsQuery.cs",
@@ -342,7 +371,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "SwitchNominalForBlockCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Application\\Nominals\\Commands\\SwitchNominalForBlock\\SwitchNominalForBlockCommandHandler.cs",
               "RelativeDocumentMoniker": "Application\\Nominals\\Commands\\SwitchNominalForBlock\\SwitchNominalForBlockCommandHandler.cs",
@@ -354,7 +383,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "SwitchNominalForBlockCommandValidator.cs",
               "DocumentMoniker": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Application\\Nominals\\Commands\\SwitchNominalForBlock\\SwitchNominalForBlockCommandValidator.cs",
               "RelativeDocumentMoniker": "Application\\Nominals\\Commands\\SwitchNominalForBlock\\SwitchNominalForBlockCommandValidator.cs",
@@ -366,7 +395,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "SwitchNominalForBlockCommand.cs",
               "DocumentMoniker": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Application\\Nominals\\Commands\\SwitchNominalForBlock\\SwitchNominalForBlockCommand.cs",
               "RelativeDocumentMoniker": "Application\\Nominals\\Commands\\SwitchNominalForBlock\\SwitchNominalForBlockCommand.cs",
@@ -378,7 +407,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "DrinkLineMappingConfig.cs",
               "DocumentMoniker": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Api\\Mapping\\DrinkLineMappingConfig.cs",
               "RelativeDocumentMoniker": "Api\\Mapping\\DrinkLineMappingConfig.cs",
@@ -390,7 +419,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "Nominal.cs",
               "DocumentMoniker": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Domain\\Nominal\\Nominal.cs",
               "RelativeDocumentMoniker": "Domain\\Nominal\\Nominal.cs",
@@ -402,7 +431,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "MachineWithDrinksMappingConfig.cs",
               "DocumentMoniker": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Api\\Mapping\\MachineWithDrinksMappingConfig.cs",
               "RelativeDocumentMoniker": "Api\\Mapping\\MachineWithDrinksMappingConfig.cs",
@@ -414,7 +443,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "GetRangeOfDrinkLinesQuery.cs",
               "DocumentMoniker": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Application\\DrinkLines\\Queries\\GetRangeOfDrinkLines\\GetRangeOfDrinkLinesQuery.cs",
               "RelativeDocumentMoniker": "Application\\DrinkLines\\Queries\\GetRangeOfDrinkLines\\GetRangeOfDrinkLinesQuery.cs",
@@ -426,7 +455,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "GetRangeOfDrinkLinesQueryHandler.cs",
               "DocumentMoniker": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Application\\DrinkLines\\Queries\\GetRangeOfDrinkLines\\GetRangeOfDrinkLinesQueryHandler.cs",
               "RelativeDocumentMoniker": "Application\\DrinkLines\\Queries\\GetRangeOfDrinkLines\\GetRangeOfDrinkLinesQueryHandler.cs",
@@ -438,7 +467,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "GetRangeOfDrinkLinesQueryValidator.cs",
               "DocumentMoniker": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Application\\DrinkLines\\Queries\\GetRangeOfDrinkLines\\GetRangeOfDrinkLinesQueryValidator.cs",
               "RelativeDocumentMoniker": "Application\\DrinkLines\\Queries\\GetRangeOfDrinkLines\\GetRangeOfDrinkLinesQueryValidator.cs",
@@ -450,7 +479,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "CustomAuthorizeAttribute.cs",
               "DocumentMoniker": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Api\\Common\\Filter\\CustomAuthorizeAttribute.cs",
               "RelativeDocumentMoniker": "Api\\Common\\Filter\\CustomAuthorizeAttribute.cs",
@@ -462,7 +491,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "Application.csproj",
               "DocumentMoniker": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Application\\Application.csproj",
               "RelativeDocumentMoniker": "Application\\Application.csproj",
@@ -474,7 +503,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "DrinkLineDto.cs",
               "DocumentMoniker": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Application\\DrinkLines\\Queries\\GetRangeOfDrinkLines\\DrinkLineDto.cs",
               "RelativeDocumentMoniker": "Application\\DrinkLines\\Queries\\GetRangeOfDrinkLines\\DrinkLineDto.cs",
@@ -486,7 +515,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "RemoveDrinkLineCommandValidator.cs",
               "DocumentMoniker": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Application\\DrinkLines\\Commands\\RemoveDrinkLine\\RemoveDrinkLineCommandValidator.cs",
               "RelativeDocumentMoniker": "Application\\DrinkLines\\Commands\\RemoveDrinkLine\\RemoveDrinkLineCommandValidator.cs",
@@ -498,7 +527,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "ChangeDrinkLineCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Application\\DrinkLines\\Commands\\ChangeDrinkLine\\ChangeDrinkLineCommandHandler.cs",
               "RelativeDocumentMoniker": "Application\\DrinkLines\\Commands\\ChangeDrinkLine\\ChangeDrinkLineCommandHandler.cs",
@@ -510,7 +539,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "RemoveDrinkLineCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Application\\DrinkLines\\Commands\\RemoveDrinkLine\\RemoveDrinkLineCommandHandler.cs",
               "RelativeDocumentMoniker": "Application\\DrinkLines\\Commands\\RemoveDrinkLine\\RemoveDrinkLineCommandHandler.cs",
@@ -522,7 +551,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "DrinkLine.cs",
               "DocumentMoniker": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Domain\\DrinkLine\\DrinkLine.cs",
               "RelativeDocumentMoniker": "Domain\\DrinkLine\\DrinkLine.cs",
@@ -534,7 +563,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "Drink.cs",
               "DocumentMoniker": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Domain\\DrinkLine\\ValueObject\\Drink.cs",
               "RelativeDocumentMoniker": "Domain\\DrinkLine\\ValueObject\\Drink.cs",
@@ -546,7 +575,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "ChangeDrinkLineCommandValidator.cs",
               "DocumentMoniker": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Application\\DrinkLines\\Commands\\ChangeDrinkLine\\ChangeDrinkLineCommandValidator.cs",
               "RelativeDocumentMoniker": "Application\\DrinkLines\\Commands\\ChangeDrinkLine\\ChangeDrinkLineCommandValidator.cs",
@@ -558,7 +587,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 31,
               "Title": "ChangeDrinkLineCommand.cs",
               "DocumentMoniker": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Application\\DrinkLines\\Commands\\ChangeDrinkLine\\ChangeDrinkLineCommand.cs",
               "RelativeDocumentMoniker": "Application\\DrinkLines\\Commands\\ChangeDrinkLine\\ChangeDrinkLineCommand.cs",
@@ -570,7 +599,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "RemoveDrinkLineCommand.cs",
               "DocumentMoniker": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Application\\DrinkLines\\Commands\\RemoveDrinkLine\\RemoveDrinkLineCommand.cs",
               "RelativeDocumentMoniker": "Application\\DrinkLines\\Commands\\RemoveDrinkLine\\RemoveDrinkLineCommand.cs",
@@ -582,7 +611,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 32,
               "Title": "CreateDrinkLineCommandValidator.cs",
               "DocumentMoniker": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Application\\DrinkLines\\Commands\\CreateDrinkLine\\CreateDrinkLineCommandValidator.cs",
               "RelativeDocumentMoniker": "Application\\DrinkLines\\Commands\\CreateDrinkLine\\CreateDrinkLineCommandValidator.cs",
@@ -594,7 +623,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 33,
               "Title": "AddDrinkLineImageCommandValidator.cs",
               "DocumentMoniker": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Application\\DrinkLines\\Commands\\AddDrinkLineImage\\AddDrinkLineImageCommandValidator.cs",
               "RelativeDocumentMoniker": "Application\\DrinkLines\\Commands\\AddDrinkLineImage\\AddDrinkLineImageCommandValidator.cs",
@@ -606,7 +635,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 34,
               "Title": "CreateDrinkLineCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Application\\DrinkLines\\Commands\\CreateDrinkLine\\CreateDrinkLineCommandHandler.cs",
               "RelativeDocumentMoniker": "Application\\DrinkLines\\Commands\\CreateDrinkLine\\CreateDrinkLineCommandHandler.cs",
@@ -618,7 +647,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 36,
               "Title": "DrinkLineOfCreateDto.cs",
               "DocumentMoniker": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Contracts\\DrinkLines\\DrinkLineOfCreateDto.cs",
               "RelativeDocumentMoniker": "Contracts\\DrinkLines\\DrinkLineOfCreateDto.cs",
@@ -630,7 +659,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 35,
               "Title": "DrinkLineOfChangeDto.cs",
               "DocumentMoniker": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Contracts\\DrinkLines\\DrinkLineOfChangeDto.cs",
               "RelativeDocumentMoniker": "Contracts\\DrinkLines\\DrinkLineOfChangeDto.cs",
@@ -642,7 +671,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 37,
               "Title": "CreateDrinkLineCommand.cs",
               "DocumentMoniker": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Application\\DrinkLines\\Commands\\CreateDrinkLine\\CreateDrinkLineCommand.cs",
               "RelativeDocumentMoniker": "Application\\DrinkLines\\Commands\\CreateDrinkLine\\CreateDrinkLineCommand.cs",
@@ -654,7 +683,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 38,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Api\\Mapping\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "Api\\Mapping\\DependencyInjection.cs",
@@ -666,7 +695,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 39,
               "Title": "Image.cs",
               "DocumentMoniker": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Domain\\DrinkLine\\ValueObject\\Image.cs",
               "RelativeDocumentMoniker": "Domain\\DrinkLine\\ValueObject\\Image.cs",
@@ -678,7 +707,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 40,
               "Title": "DrinkLineConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Infrastructure\\Data\\Configuration\\DrinkLineConfiguration.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Data\\Configuration\\DrinkLineConfiguration.cs",
@@ -690,7 +719,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 41,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Api\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "Api\\DependencyInjection.cs",
@@ -702,7 +731,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 42,
               "Title": "AddDrinkLineImageCommand.cs",
               "DocumentMoniker": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Application\\DrinkLines\\Commands\\AddDrinkLineImage\\AddDrinkLineImageCommand.cs",
               "RelativeDocumentMoniker": "Application\\DrinkLines\\Commands\\AddDrinkLineImage\\AddDrinkLineImageCommand.cs",
@@ -714,7 +743,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 44,
               "Title": "PurchaseDrinksCommandValidator.cs",
               "DocumentMoniker": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Application\\MachinesWithDrinks\\Commands\\PurchaseDrinks\\PurchaseDrinksCommandValidator.cs",
               "RelativeDocumentMoniker": "Application\\MachinesWithDrinks\\Commands\\PurchaseDrinks\\PurchaseDrinksCommandValidator.cs",
@@ -726,7 +755,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 43,
               "Title": "PurchaseDrinksCommand.cs",
               "DocumentMoniker": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Application\\MachinesWithDrinks\\Commands\\PurchaseDrinks\\PurchaseDrinksCommand.cs",
               "RelativeDocumentMoniker": "Application\\MachinesWithDrinks\\Commands\\PurchaseDrinks\\PurchaseDrinksCommand.cs",
@@ -738,7 +767,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 45,
               "Title": "PurchaseDrinksCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Application\\MachinesWithDrinks\\Commands\\PurchaseDrinks\\PurchaseDrinksCommandHandler.cs",
               "RelativeDocumentMoniker": "Application\\MachinesWithDrinks\\Commands\\PurchaseDrinks\\PurchaseDrinksCommandHandler.cs",
@@ -750,7 +779,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 46,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Infrastructure\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "Infrastructure\\DependencyInjection.cs",
@@ -762,7 +791,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 47,
               "Title": "Api.csproj",
               "DocumentMoniker": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Api\\Api.csproj",
               "RelativeDocumentMoniker": "Api\\Api.csproj",
@@ -774,7 +803,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 49,
               "Title": "DrinkLineId.cs",
               "DocumentMoniker": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Domain\\DrinkLine\\ValueObject\\DrinkLineId.cs",
               "RelativeDocumentMoniker": "Domain\\DrinkLine\\ValueObject\\DrinkLineId.cs",
@@ -786,7 +815,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 48,
               "Title": "PurchaseDto.cs",
               "DocumentMoniker": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Contracts\\MachinesWithDrinks\\PurchaseDto.cs",
               "RelativeDocumentMoniker": "Contracts\\MachinesWithDrinks\\PurchaseDto.cs",
@@ -798,7 +827,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 50,
               "Title": "ValidationBehavior.cs",
               "DocumentMoniker": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Application\\Common\\Behavior\\ValidationBehavior.cs",
               "RelativeDocumentMoniker": "Application\\Common\\Behavior\\ValidationBehavior.cs",
@@ -810,7 +839,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 51,
               "Title": "MachineWithDrinks.cs",
               "DocumentMoniker": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Domain\\MachineWithDrinks\\MachineWithDrinks.cs",
               "RelativeDocumentMoniker": "Domain\\MachineWithDrinks\\MachineWithDrinks.cs",
@@ -822,7 +851,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 52,
               "Title": "MachineWithDrinksId.cs",
               "DocumentMoniker": "C:\\Users\\ignat\\Desktop\\IntravisionTestTask\\TestTaskInstraVision\\Domain\\MachineWithDrinks\\ValueObject\\MachineWithDrinksId.cs",
               "RelativeDocumentMoniker": "Domain\\MachineWithDrinks\\ValueObject\\MachineWithDrinksId.cs",
