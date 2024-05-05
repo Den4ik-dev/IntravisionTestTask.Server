@@ -16,6 +16,8 @@ builder.Services.AddCors();
 
 WebApplication app = builder.Build();
 
+app.UseExceptionHandler(options => { });
+
 app.UseAuthentication();
 app.UseAuthorization();
 

@@ -1,3 +1,4 @@
+using Api.Infrastructure;
 using Api.Mapping;
 
 namespace Api;
@@ -10,6 +11,7 @@ public static class DependencyInjection
         services.AddEndpointsApiExplorer();
         services.AddSwaggerGen();
         services.AddMapping();
+        services.AddExceptionHandler<CustomExceptionHandler>();
 
         return services;
     }
